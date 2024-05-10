@@ -1,0 +1,1 @@
+export let urlAPI = "https://uts-qinthar2024-921a0523467e.herokuapp.com/perpustakaan";
