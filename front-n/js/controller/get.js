@@ -4,6 +4,7 @@ import { isiTabel } from "../temp/table.js";
 export function isiTablePresensi(results) {
     clearTable();
     results.forEach(isiRow);
+    console.log(results);
 }
 function isiRow(value) {
     let content = 
